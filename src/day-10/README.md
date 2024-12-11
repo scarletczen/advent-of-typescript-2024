@@ -37,4 +37,4 @@ test<Gift.OnTheMove>(0b00000 | 0b00010 | 0b01000 | 0b10000);
 test<Gift.OnTheCouch>((0b11010 & ~0b00010) | 0b00100);
 ```
 
-Try completing the challenge without binary notation, though, using the << operator.
+Try completing the challenge without binary notation, though, using the `<<` operator.
